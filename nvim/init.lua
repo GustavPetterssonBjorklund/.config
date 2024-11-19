@@ -1,3 +1,11 @@
+--[[
+This is a neovim config made by:
+GustavPetterssonBjorklund
+
+Please give credit if you use software or other made by made
+--]]
+
+
 -- Load basic settings
 require("settings")
 

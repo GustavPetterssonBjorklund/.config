@@ -46,4 +46,3 @@ for _, lsp in ipairs(servers) do
         capabilities = require("cmp_nvim_lsp").default_capabilities(),
     })
 end
-
